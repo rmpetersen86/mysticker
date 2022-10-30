@@ -52,7 +52,7 @@ $ git clone https://github.com/rmpetersen86/mysticker.git
 # Acesse o diretório onde o repositório foi clonado ou baixado
 #Caso tenha sido baixado, descompacte o arquivo e acesse o diretório
 
-$ cd formulariosNativeBase
+$ cd mysticker
 
 # Instale as dependências
 $ npm install
